@@ -1,4 +1,4 @@
-namespace AzureRedisForCache.Models
+namespace AzureRedisCache.Models
 {
     public class ErrorViewModel
     {

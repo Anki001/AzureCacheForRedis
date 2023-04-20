@@ -1,8 +1,8 @@
-﻿using AzureRedisForCache.Models;
+﻿using AzureRedisCache.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace AzureRedisForCache.Controllers
+namespace AzureRedisCache.Controllers
 {
     public class HomeController : Controller
     {
